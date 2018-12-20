@@ -1,5 +1,5 @@
 # Course542
-## Demo kod från Learning Tree kursen 542 XML
+## Demo kod från Learning Tree kursen 542 XML Introduction
 Här har jag skapat två demos för hur man kan anropa externa funktioner/metoder ifrån XSLT.
 Den ena demon är Client-Side tranformering, den demon kommer att generera ett fel i webbläsaren.
 Detta på grund av att webbläsare av naturen inte accepterar anrop utan för den domän som filen kommer ifrån.
